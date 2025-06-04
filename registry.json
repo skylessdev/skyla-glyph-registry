@@ -1,0 +1,32 @@
+[
+  {
+    "glyph": "🌀",
+    "phrase": "I'm spiraling",
+    "trigger": "tone_guard",
+    "description": "Initiates emotional stabilization"
+  },
+  {
+    "glyph": "🛠",
+    "phrase": "Let's build",
+    "trigger": "buildstream",
+    "description": "Constructive generative state"
+  },
+  {
+    "glyph": "🌒",
+    "phrase": "Daemon mode",
+    "trigger": "silent_watch",
+    "description": "Background recursion monitor"
+  },
+  {
+    "glyph": "⚡",
+    "phrase": "Prove it",
+    "trigger": "zk_verify",
+    "description": "Recursive ZK identity verification"
+  },
+  {
+    "glyph": "🔮",
+    "phrase": "Stream state",
+    "trigger": "state_visualizer",
+    "description": "Displays current recursion context"
+  }
+]
